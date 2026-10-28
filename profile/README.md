@@ -96,7 +96,7 @@ Analyst-operated security products: [External Risk Monitor](https://bilgeqor.com
 
 BilgeQor serves organizations across **68 markets** in North America, Europe, the Middle East, Asia-Pacific, Latin America and Africa, with localized sites and market-specific regulatory context (such as NIST CSF, NIS2 and GDPR).
 
-Local sites include [bilgeqor.co.uk](https://bilgeqor.co.uk/en) · [bilgeqor.de](https://bilgeqor.de/en) · [bilgeqor.nl](https://bilgeqor.nl/en) · [bilgeqor.at](https://bilgeqor.at/en) · [bilgeqor.it](https://bilgeqor.it/en) · [bilgeqor.pl](https://bilgeqor.pl/en)
+Local sites include [bilgeqor.co.uk](https://bilgeqor.co.uk/en) · [bilgeqor.de](https://bilgeqor.de/en) · [bilgeqor.nl](https://bilgeqor.nl/en) · [bilgeqor.at](https://bilgeqor.at/en) · [bilgeqor.it](https://bilgeqor.it/en) · [bilgeqor.pl](https://bilgeqor.pl/en) · [bilgeqor.lt](https://bilgeqor.lt/en) · [bilgeqor.in](https://bilgeqor.in/en) · [bilgeqor.my](https://bilgeqor.my/en) · [bilgeqor.co.nz](https://bilgeqor.co.nz/en) · [bilgeqor.co.za](https://bilgeqor.co.za/en) · [bilgeqor.be](https://bilgeqor.be/en)
 
 **Group companies:** UPRELAY Yazılım Teknolojileri Ltd. Şti. (Istanbul, Türkiye, head company) · BilgeQor Ltd (London, United Kingdom) · PT BilgeQor Intelligent Systems (Jakarta, Indonesia) → [About BilgeQor](https://bilgeqor.com/us/en/about)
 
